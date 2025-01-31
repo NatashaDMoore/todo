@@ -1,7 +1,5 @@
-import ToDoListApp from "./ToDoListApp/ToDoListApp";
 import './App.css'
-
-console.log("working");
+import ToDoListApp from "./ToDoListApp/ToDoListApp";
 
 function App() {
   return (
